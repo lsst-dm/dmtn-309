@@ -21,3 +21,7 @@ orcid = "https://orcid.org/0000-0002-0558-0521"
 name = "University of Washington"
 internal_id = "Washington"
 address = "Dept. of Astronomy, Box 351580, Seattle, WA 98195, USA"
+
+[[technote.authors]]
+name.given = "Toby"
+name.family = "Jennings"
