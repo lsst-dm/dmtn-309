@@ -9,9 +9,6 @@ organization.name = "Vera C. Rubin Observatory"
 organization.ror = "https://ror.org/048g3cy84"
 license.id = "CC-BY-4.0"
 
-[technote.status]
-state = "draft"
-
 [[technote.authors]]
 name.given = "Colin T."
 name.family = "Slater"
@@ -21,3 +18,7 @@ orcid = "https://orcid.org/0000-0002-0558-0521"
 name = "University of Washington"
 internal_id = "Washington"
 address = "Dept. of Astronomy, Box 351580, Seattle, WA 98195, USA"
+
+[[technote.authors]]
+name.given = "Toby"
+name.family = "Jennings"
